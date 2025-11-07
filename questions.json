@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "question": "O‘zbekiston poytaxti qaysi?",
+    "answers": [
+      "Buxoro",
+      "Toshkent",
+      "Samarqand",
+      "Andijon"
+    ],
+    "correct": "Toshkent"
+  },
+  {
+    "id": 2,
+    "question": "1+8=?",
+    "answers": [
+      "⬅️ Asosiy menyu",
+      "3",
+      "9",
+      "7"
+    ],
+    "correct": "9"
+  },
+  {
+    "id": 3,
+    "question": "8+9=?",
+    "answers": [
+      "7",
+      "17",
+      "19",
+      "20"
+    ],
+    "correct": "17"
+  },
+  {
+    "id": 4,
+    "question": "Eng uzun daryo qaysi?",
+    "answers": [
+      "Nil",
+      "Amazonka",
+      "Amudaryo",
+      "Sirdaryo"
+    ],
+    "correct": "Nil"
+  },
+  {
+    "id": 5,
+    "question": "Python nima?",
+    "answers": [
+      "Dasturlash tili",
+      "Kitob",
+      "Chat",
+      "Bot"
+    ],
+    "correct": "Dasturlash tili"
+  }
+]

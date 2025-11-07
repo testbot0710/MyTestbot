@@ -1,0 +1,27 @@
+{
+  "8147432628": {
+    "name": "Mirzo",
+    "score": 0,
+    "answered": [],
+    "daily_count": 0,
+    "last_day": "2025-11-05",
+    "session": [],
+    "session_index": 0
+  },
+  "6004562016": {
+    "name": "Bek",
+    "score": 25,
+    "answered": [
+      1,
+      4,
+      2,
+      5,
+      3
+    ],
+    "daily_count": 5,
+    "last_day": "2025-11-07",
+    "session": [],
+    "session_index": 0,
+    "session_date": "2025-11-07"
+  }
+}
